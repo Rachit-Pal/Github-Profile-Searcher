@@ -8,7 +8,7 @@
 Search and view users via the Github API.
 Requests are cached in session storage to limit the use of the API.
 
-[Github Profile Searcher](https://rachit-pal.github.io/github-profile-searcher)
+[Github Profile Searcher](https://rachit-pal.github.io/Github-Profile-Searcher/)
 
 
 ## What is this?
