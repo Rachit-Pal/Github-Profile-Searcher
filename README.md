@@ -5,8 +5,6 @@
 ![forthebadge made-with-javascript](http://ForTheBadge.com/images/badges/made-with-javascript.svg)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Rachit-Pal/)
 
-</br>
-
 Search and view users via the Github API.
 Requests are cached in session storage to limit the use of the API.
 
